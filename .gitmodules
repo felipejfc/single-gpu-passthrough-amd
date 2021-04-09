@@ -1,0 +1,3 @@
+[submodule "vendor-reset"]
+	path = vendor-reset
+	url = git@github.com:gnif/vendor-reset.git
